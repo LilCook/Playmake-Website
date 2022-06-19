@@ -1,0 +1,58 @@
+/* this is my stylesheet on an actual .css file */
+
+/* defining the style and creating a style id */
+#default{
+    text-align: center;
+      color:White;
+      font-family: Verdana;
+      font-size:large;
+      background-color:MediumSeaGreen;
+  }
+    
+    
+  body{
+      background-color:MediumSeaGreen
+  
+  }
+  
+  
+    
+  /*set background color for webpage body*/
+  
+  
+  #explore{
+    text-align: left;
+      color:White;
+      font-family: Verdana;
+      font-size:large;
+      background-color:MediumSeaGreen;
+  }
+  
+  #button1{
+    background-color: white;
+    color: black;
+    border: 2px solid #4CAF50; /* Green */
+  }
+  
+  #coyt{
+    text-align:center;
+    color:black;
+    font-family: Verdana;
+    background-color: MediumSeaGreen;
+  }
+  
+  
+  #submit{
+   background-color: #bbb;
+   padding: .5em;
+   -moz-border-radius: 10px;
+   -webkit-border-radius: 10px;
+   border-radius: 10px;
+   color: red;
+   font-family: 'Verdana';
+   font-size: 20px;
+   text-decoration: none;
+   border: none;
+  }
+  
+  
